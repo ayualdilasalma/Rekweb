@@ -9,7 +9,7 @@ Tugas dibagi perkelompok terdiri dari 5-6 orang yang bertanggung jawab terhadap 
 
 Framework [Codeigniter](http://www.codeigniter.com/docs).
 
-HMVC [Modular Extension](https://bitbucket.org/wiredesignz/codeigniter-modular-extensions-hmv)
+HMVC [Modular Extension](https://bitbucket.org/wiredesignz/codeigniter-modular-extensions-hmvc)
 
 Bootstrap [Bootstrap](http://getbootstrap.com/getting-started/)
 
